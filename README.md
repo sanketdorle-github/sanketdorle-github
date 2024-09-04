@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Dorle</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently Backend on **Node.js and php**
+
 
 - 🌱 I’m currently learning **Node.js and php**
 
