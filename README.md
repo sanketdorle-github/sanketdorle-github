@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Node.js and php**
+- 🌱 I’m currently working with **Node.js and Next.js**
 
 - 💬 Ask me about **React,Node.js**
 
